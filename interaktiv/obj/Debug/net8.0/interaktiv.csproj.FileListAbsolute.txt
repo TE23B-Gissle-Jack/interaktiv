@@ -1,0 +1,15 @@
+C:\Users\jack.gissle\Desktop\Prog !\interaktiv\interaktiv\bin\Debug\net8.0\interaktiv.exe
+C:\Users\jack.gissle\Desktop\Prog !\interaktiv\interaktiv\bin\Debug\net8.0\interaktiv.deps.json
+C:\Users\jack.gissle\Desktop\Prog !\interaktiv\interaktiv\bin\Debug\net8.0\interaktiv.runtimeconfig.json
+C:\Users\jack.gissle\Desktop\Prog !\interaktiv\interaktiv\bin\Debug\net8.0\interaktiv.dll
+C:\Users\jack.gissle\Desktop\Prog !\interaktiv\interaktiv\bin\Debug\net8.0\interaktiv.pdb
+C:\Users\jack.gissle\Desktop\Prog !\interaktiv\interaktiv\obj\Debug\net8.0\interaktiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jack.gissle\Desktop\Prog !\interaktiv\interaktiv\obj\Debug\net8.0\interaktiv.AssemblyInfoInputs.cache
+C:\Users\jack.gissle\Desktop\Prog !\interaktiv\interaktiv\obj\Debug\net8.0\interaktiv.AssemblyInfo.cs
+C:\Users\jack.gissle\Desktop\Prog !\interaktiv\interaktiv\obj\Debug\net8.0\interaktiv.csproj.CoreCompileInputs.cache
+C:\Users\jack.gissle\Desktop\Prog !\interaktiv\interaktiv\obj\Debug\net8.0\interaktiv.sourcelink.json
+C:\Users\jack.gissle\Desktop\Prog !\interaktiv\interaktiv\obj\Debug\net8.0\interaktiv.dll
+C:\Users\jack.gissle\Desktop\Prog !\interaktiv\interaktiv\obj\Debug\net8.0\refint\interaktiv.dll
+C:\Users\jack.gissle\Desktop\Prog !\interaktiv\interaktiv\obj\Debug\net8.0\interaktiv.pdb
+C:\Users\jack.gissle\Desktop\Prog !\interaktiv\interaktiv\obj\Debug\net8.0\interaktiv.genruntimeconfig.cache
+C:\Users\jack.gissle\Desktop\Prog !\interaktiv\interaktiv\obj\Debug\net8.0\ref\interaktiv.dll
